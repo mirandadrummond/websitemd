@@ -3,7 +3,8 @@ import React from 'react';
 const Contact = () => {
 return (
 	<div>
-	<h1>Mail us on feedback@geeksforgeeks.org</h1>
+	<h1>You can reach me through various forms, email me at mirandadrummond2@gmail.com</h1>
+	<p>Or try my github, linkedin</p>
 	</div>
 );
 };
